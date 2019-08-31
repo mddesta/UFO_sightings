@@ -94,20 +94,21 @@ select {
 /* The styles for the parallax */
 .hero {
   position: relative;
-  height: 550px;
+  height: 500px;
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("../images/Nav-bar image.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
 }
 
 .hero h1 {
-  margin-top: 200px;
-  font-size: 0.1rem;
+  margin-top: 100px;
+  font-size: 0.3rem;
   animation: title 1.2s forwards linear;
+  text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px white;
 }
 
 .hero p {
@@ -115,6 +116,7 @@ select {
   opacity: 0;
   animation: subtitle 1.2s forwards linear;
   animation-delay: 1.2s;
+  text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px white;
 }
 
 /* input placeholder color changes */
