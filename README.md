@@ -12,4 +12,4 @@ Wrote a code that will create a table dynamically based upon a dataset containin
 
 ## Webpage 
 
-![Screencapture](https://github.com/mddesta/UFO_sightings/Screencapture.PNG)
+![Screencapture](https://github.com/mddesta/UFO_sightings/blob/master/Screencapture.PNG)
