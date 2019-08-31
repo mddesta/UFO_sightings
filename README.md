@@ -2,7 +2,7 @@
 
 ## Background
 
-wrote a code that will create a table dynamically based upon a dataset containing eye-witness reports of UFO sightings that allows users to filter the table data for specific values.
+Wrote a code that will create a table dynamically based upon a dataset containing eye-witness reports of UFO sightings that allows users to filter the table data for specific values.
 
 ## Technnologies 
 
@@ -12,4 +12,4 @@ wrote a code that will create a table dynamically based upon a dataset containin
 
 ## Webpage 
 
-!(Screencapture)[https://github.com/mddesta/UFO_sightings/blob/master/static/images/Screencapture.PNG]
+!(Screencapture)[Screencapture.PNG]
